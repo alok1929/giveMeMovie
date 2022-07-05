@@ -1,0 +1,25 @@
+{
+  "name": "givememovie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok1929/giveMeMovie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok1929/giveMeMovie/issues"
+  },
+  "homepage": "https://github.com/alok1929/giveMeMovie#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4"
+  }
+}
